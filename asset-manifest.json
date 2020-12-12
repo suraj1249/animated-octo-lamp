@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/animated-octo-lamp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/animated-octo-lamp/static/js/main.3d9342bc.chunk.js",
+    "main.js.map": "/animated-octo-lamp/static/js/main.3d9342bc.chunk.js.map",
+    "runtime-main.js": "/animated-octo-lamp/static/js/runtime-main.da5b7cd7.js",
+    "runtime-main.js.map": "/animated-octo-lamp/static/js/runtime-main.da5b7cd7.js.map",
+    "static/js/2.7ded6bc7.chunk.js": "/animated-octo-lamp/static/js/2.7ded6bc7.chunk.js",
+    "static/js/2.7ded6bc7.chunk.js.map": "/animated-octo-lamp/static/js/2.7ded6bc7.chunk.js.map",
+    "static/js/3.e6c08d78.chunk.js": "/animated-octo-lamp/static/js/3.e6c08d78.chunk.js",
+    "static/js/3.e6c08d78.chunk.js.map": "/animated-octo-lamp/static/js/3.e6c08d78.chunk.js.map",
+    "index.html": "/animated-octo-lamp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/animated-octo-lamp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7ded6bc7.chunk.js.LICENSE.txt": "/animated-octo-lamp/static/js/2.7ded6bc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da5b7cd7.js",
+    "static/js/2.7ded6bc7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3d9342bc.chunk.js"
+  ]
+}
